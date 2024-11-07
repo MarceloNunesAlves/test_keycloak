@@ -1,0 +1,13 @@
+{
+    "clientId": "react",
+    "rootUrl": "http://customer100.localtest.me:3000",
+    "enabled": true,
+    "redirectUris": [
+        "http://customer100.localtest.me:3000/*"
+    ],
+    "webOrigins": [
+        "http://customer100.localtest.me:3000"
+    ],
+    "publicClient": true,
+    "protocol": "openid-connect"
+}
